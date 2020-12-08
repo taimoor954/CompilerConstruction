@@ -1,0 +1,7 @@
+intgr a = 23
+static func(a)
+{
+    retrn {
+        a + b
+    }
+}

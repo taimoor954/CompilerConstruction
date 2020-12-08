@@ -1,0 +1,12 @@
+{"CLASSNAME":"dataType","VALUE":"intgr","LINE_NUMBER":1}
+{"CLASSNAME":"assignOperator","VALUE":"=","LINE_NUMBER":1}
+{"CLASSNAME":"static","VALUE":"static","LINE_NUMBER":2}
+{"CLASSNAME":"func","VALUE":"func","LINE_NUMBER":2}
+{"CLASSNAME":"punctuators","VALUE":"(","LINE_NUMBER":2}
+{"CLASSNAME":"punctuators","VALUE":")","LINE_NUMBER":2}
+{"CLASSNAME":"punctuators","VALUE":"{","LINE_NUMBER":3}
+{"CLASSNAME":"retrn","VALUE":"retrn","LINE_NUMBER":4}
+{"CLASSNAME":"punctuators","VALUE":"{","LINE_NUMBER":4}
+{"CLASSNAME":"arithOperators","VALUE":"+","LINE_NUMBER":5}
+{"CLASSNAME":"punctuators","VALUE":"}","LINE_NUMBER":6}
+{"CLASSNAME":"punctuators","VALUE":"}","LINE_NUMBER":7}
