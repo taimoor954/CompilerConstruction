@@ -23,6 +23,7 @@ function TokenGenerator(input, lineNumber) {
       }
     }
   }
+  //check if extra space is send as a token 
   if (Object.keys(TokenObj).length == 0) {
     if (extraSpaces.test(input)) {
       TokenObj = {

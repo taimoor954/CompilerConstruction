@@ -9,6 +9,5 @@ var fileReader = () => {
   } catch (e) {
     console.log("Error:", e);
   }
-  console.log("working");
 };
 exports.fileReader = fileReader;

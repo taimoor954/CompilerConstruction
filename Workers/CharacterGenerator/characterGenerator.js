@@ -11,7 +11,6 @@ function characterGenerator(char, lineNumber) {
     };
     obj = JSON.stringify(obj);
     write(obj); 
-    console.log(obj);
   }
 }
 exports.characterGenerator = characterGenerator;
