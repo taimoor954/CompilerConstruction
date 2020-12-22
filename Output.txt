@@ -1,12 +1,14 @@
-{"CLASSNAME":"dataType","VALUE":"intgr","LINE_NUMBER":1}
+{"CLASSNAME":"str","VALUE":"str","LINE_NUMBER":1}
+{"CLASSNAME":"IDENTIFIER","VALUE":"myStr","LINE_NUMBER":1}
 {"CLASSNAME":"assignOperator","VALUE":"=","LINE_NUMBER":1}
-{"CLASSNAME":"static","VALUE":"static","LINE_NUMBER":2}
-{"CLASSNAME":"func","VALUE":"func","LINE_NUMBER":2}
-{"CLASSNAME":"punctuators","VALUE":"(","LINE_NUMBER":2}
-{"CLASSNAME":"punctuators","VALUE":")","LINE_NUMBER":2}
-{"CLASSNAME":"punctuators","VALUE":"{","LINE_NUMBER":3}
-{"CLASSNAME":"retrn","VALUE":"retrn","LINE_NUMBER":4}
+{"CLASSNAME":"LEXICAL ERROR","VALUE":"\" ysysysyysysyys ? ? > > ? < > ) )","LINE_NUMBER":1,"ERROR":"ADD \" IN THE END OF STRING ☀ 🔥🔥"}
+{"CLASSNAME":"dataType","VALUE":"char","LINE_NUMBER":2}
+{"CLASSNAME":"IDENTIFIER","VALUE":"s","LINE_NUMBER":2}
+{"CLASSNAME":"assignOperator","VALUE":"=","LINE_NUMBER":2}
+{"CLASSNAME":"LEXICAL ERROR","VALUE":"` d","LINE_NUMBER":2,"ERROR":"ADD ` AT THE END OF CHARACTER ☀ 🔥🔥"}
+{"CLASSNAME":"func","VALUE":"func","LINE_NUMBER":3}
+{"CLASSNAME":"punctuators","VALUE":"(","LINE_NUMBER":3}
+{"CLASSNAME":"LEXICAL ERROR","VALUE":"` a )","LINE_NUMBER":3,"ERROR":"ADD ` AT THE END OF CHARACTER ☀ 🔥🔥"}
 {"CLASSNAME":"punctuators","VALUE":"{","LINE_NUMBER":4}
-{"CLASSNAME":"arithOperators","VALUE":"+","LINE_NUMBER":5}
+{"CLASSNAME":"retrn","VALUE":"retrn","LINE_NUMBER":5}
 {"CLASSNAME":"punctuators","VALUE":"}","LINE_NUMBER":6}
-{"CLASSNAME":"punctuators","VALUE":"}","LINE_NUMBER":7}

@@ -14,7 +14,7 @@
   "\\," +
   "\\\\" +
   "\\-" + // classes, we'll need our
-  "\\." +
+  // "\\." +
   "\\/" +
   "\\:" +
   "\\;" +
@@ -49,6 +49,7 @@
       "]" + // punct
       ")" // end capture group
   ));
+
 function grep(ary, filt) {
   var result = [];
   for (var i = 0, len = ary.length; i++ < len; ) {
@@ -59,5 +60,4 @@ function grep(ary, filt) {
   }
   return result;
 }
-
-module.exports = grep;
+exports.grep = grep;

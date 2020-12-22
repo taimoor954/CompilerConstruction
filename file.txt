@@ -1,0 +1,6 @@
+str myStr = "ysysysyysysyys??>>?<>))
+char s = `d
+func(`a)
+{
+    retrn
+}
