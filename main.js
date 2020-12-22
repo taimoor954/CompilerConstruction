@@ -30,7 +30,7 @@ var data = fileReader(); //READ DATA FROM TEXT FILE SAVED IN VAR DATA
 
 //STEP2  BREAK YOUR TEXT FILE IN SUCH A WAY THAT EACH POSITION OF YOUR ARRAY CONTAIN EACH LINE OF TEXTFILE
 var array = data.match(/[^\r\n]+/g);
-
+//Incase if input file is empty then array will be null
 if (array != null) {
   for (let index = 0; index < array.length; index++) {
     writeFileFormatter(array[index]);
