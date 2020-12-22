@@ -10,7 +10,7 @@ function characterGenerator(char, lineNumber) {
       LINE_NUMBER: lineNumber,
     };
     obj = JSON.stringify(obj);
-    write(obj);
+    write(obj); 
     console.log(obj);
   }
 }
